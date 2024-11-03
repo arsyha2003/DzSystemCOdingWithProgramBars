@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzSystemCodingPBars", "DzSystemCodingPBars.csproj", "{E61A8858-1CC9-4976-84DB-A594E78711D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61A8858-1CC9-4976-84DB-A594E78711D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61A8858-1CC9-4976-84DB-A594E78711D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61A8858-1CC9-4976-84DB-A594E78711D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61A8858-1CC9-4976-84DB-A594E78711D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A1EF619-503B-43EF-8228-27A59783BA93}
+	EndGlobalSection
+EndGlobal
