@@ -4,6 +4,7 @@ namespace DzSystemCodingPBars
     {
         public Form1()
         {
+            //Все задания разбил по веткам
             InitializeComponent();
         }
     }
